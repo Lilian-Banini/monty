@@ -2,7 +2,7 @@
 
 /**
 * f_push - function that adds node to the stack
-* @head: double head pointer to the stack
+* @head: double pointer to the head of stack
 * @counter: line count
 *
 * Return: nothing
