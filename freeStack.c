@@ -2,7 +2,7 @@
 
 /**
 * free_stack - function that frees a doubly linked list
-* @head: head pointer to the stack
+* @head: pointer to head of stack 
 *
 * Return: nothing
 */
