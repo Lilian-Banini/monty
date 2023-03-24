@@ -2,7 +2,7 @@
 
 /**
 * f_rotr - function that rotates the stack to the bottom
-* @head: stack head of the stack
+* @head: double pointer to the stack head
 * @counter: line count
 *
 * Return: nothing
