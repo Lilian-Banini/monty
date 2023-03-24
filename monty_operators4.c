@@ -2,7 +2,7 @@
 
 /**
 * f_pall - function that prints everything in the stack
-* @head: double head pointer to the stack
+* @head: double pointer to the stack head
 * @counter: unused line count
 *
 * Return: nothing
