@@ -3,7 +3,7 @@
 /**
 * f_pstr - function that prints the string starting at the top of the stack,
 * followed by a new
-* @head: head of stack
+* @head: head of the stack
 * @counter: line count
 *
 * Return: nothing
