@@ -7,8 +7,8 @@ bus_t bus = {NULL, NULL, NULL, 0};
 
 /**
 * main - function for monty code interpreter
-* @argc: argument count
-* @argv: argument value
+* @argc: arguments count
+* @argv: arguments value
 *
 * Return: 0 on success
 */
